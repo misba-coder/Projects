@@ -1,4 +1,4 @@
-# SQL_Project_Music_Store_Analysis
+# SQL Project Music Store Analysis
 
 # Objective:
 Analyze the music playlist database to help the store understand its business growth by answering key questions.
@@ -29,6 +29,6 @@ Solution: Created clear and concise visualizations and reports to communicate re
 
 # Achievements:
 
-Identified key trends in customer behavior that led to a 15% increase in targeted marketing campaign effectiveness.
-Provided insights that contributed to a 10% improvement in customer retention rates.
-Streamlined the data analysis process, reducing query execution time by 40%.
+--> Identified key trends in customer behavior that led to a 15% increase in targeted marketing campaign effectiveness.
+--> Provided insights that contributed to a 10% improvement in customer retention rates.
+--> Streamlined the data analysis process, reducing query execution time by 40%.
