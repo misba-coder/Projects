@@ -15,7 +15,6 @@ Conducted a comprehensive analysis of a music playlist database to provide actio
 --> Extracted and analyzed data from the music playlist database using PostgreSQL. 
 --> Developed and executed complex SQL queries to answer business questions and uncover trends.
 --> Utilized PgAdmin4 to manage and visualize database interactions.
---> Created detailed reports summarizing findings and providing recommendations for business improvements.
 
 # Challenges and Solutions:
 
@@ -30,5 +29,4 @@ Solution: Created clear and concise visualizations and reports to communicate re
 # Achievements:
 
 --> Identified key trends in customer behavior that led to a 15% increase in targeted marketing campaign effectiveness.
---> Provided insights that contributed to a 10% improvement in customer retention rates.
 --> Streamlined the data analysis process, reducing query execution time by 40%.
