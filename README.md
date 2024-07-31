@@ -16,7 +16,7 @@ Conducted a comprehensive analysis of a music playlist database to provide actio
 --> Developed and executed complex SQL queries to answer business questions and uncover trends.
 --> Utilized PgAdmin4 to manage and visualize database interactions.
 
-# Challenges and Solutions:
+# Challenge and Solution:
 
 # Challenge:
 Handling large datasets and ensuring query optimization.
