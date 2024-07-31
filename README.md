@@ -22,7 +22,3 @@ Conducted a comprehensive analysis of a music playlist database to provide actio
 Handling large datasets and ensuring query optimization.
 Solution: Implemented indexing and query optimization techniques to improve performance.
 
-# Challenge:
-Translating technical findings into actionable business insights.
-Solution: Created clear and concise visualizations and reports to communicate results effectively.
-
