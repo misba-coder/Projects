@@ -26,7 +26,3 @@ Solution: Implemented indexing and query optimization techniques to improve perf
 Translating technical findings into actionable business insights.
 Solution: Created clear and concise visualizations and reports to communicate results effectively.
 
-# Achievements:
-
---> Identified key trends in customer behavior that led to a 15% increase in targeted marketing campaign effectiveness.
---> Streamlined the data analysis process, reducing query execution time by 40%.
